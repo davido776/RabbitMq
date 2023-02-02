@@ -1,0 +1,4 @@
+﻿<Properties StartupConfiguration="{F703EFB6-0477-4A14-A1AE-E43AE2CAC9DC}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.RabbitMq.Producer FirstBuild="True" />
+</Properties>

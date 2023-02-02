@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "bWx6itypXFGRclLh/QFvFN3Z9xeyx2OcV1WoLgSUIqv2gksPhx53g/TyUyTYIOVENGpyf21hdoj7v+Kh7AwCFw==",
+  "success": true,
+  "projectFilePath": "/Users/davido/Projects/RabbitMq/RabbitMq.Producer/RabbitMq.Producer.csproj",
+  "expectedPackageFiles": [
+    "/Users/davido/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/davido/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/davido/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/davido/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/davido/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/davido/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
