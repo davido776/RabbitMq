@@ -1,4 +1,35 @@
-﻿<Properties StartupConfiguration="{F703EFB6-0477-4A14-A1AE-E43AE2CAC9DC}|Default">
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.RabbitMq.Producer FirstBuild="True" />
+﻿<Properties StartupConfiguration="Multiple Projects">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.RabbitMq.ConsumerConsole PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations>
+    <MultiItemSolutionRunConfiguration Id="Multiple Projects" Name="Multiple Projects">
+      <Items>
+        <StartupItem ItemId="{36E519F6-9830-4A42-875B-F88A3274F4BC}" ItemName="RabbitMq.ConsumerConsole" ConfigurationId="Default" />
+        <StartupItem ItemId="{F703EFB6-0477-4A14-A1AE-E43AE2CAC9DC}" ItemName="RabbitMq.Producer" ConfigurationId="Default" />
+      </Items>
+    </MultiItemSolutionRunConfiguration>
+  </MultiItemStartupConfigurations>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/BookingsController.cs">
+    <Files>
+      <File FileName="Services/IMessageProducer.cs" Line="6" Column="40" />
+      <File FileName="Services/MessageProducer.cs" Line="24" Column="51" />
+      <File FileName="Controllers/BookingsController.cs" Line="27" Column="60" />
+      <File FileName="Controllers/WeatherForecastController.cs" Line="31" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RabbitMq" expanded="True" selected="True" />
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.RabbitMq.Producer PreferredExecutionTarget="/Applications/Safari.app" />
 </Properties>
